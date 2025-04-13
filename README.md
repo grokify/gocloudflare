@@ -14,7 +14,7 @@ Cloudflare helpers in Go.
 ## References
 
 1. [Cloudflare Developer Portal](https://developers.cloudflare.com)
-1. [Cloudflare API Schemas](https://github.com/cloudflare/api-schemas)
+1. [Cloudflare API Schemas](https://github.com/cloudflare/api-schemas) - [API Reference](https://grokify.github.io/gocloudflare/api-reference)
 
 ## API Coverage
 
