@@ -7,6 +7,15 @@
 [![SLOC][loc-svg]][repo-url]
 [![License][license-svg]][license-url]
 
+## Overview
+
+Cloudflare helpers in Go.
+
+## References
+
+1. [Cloudflare Developer Portal](https://developers.cloudflare.com)
+1. [Cloudflare API Schemas](https://github.com/cloudflare/api-schemas)
+
 ## API Coverage
 
 - [ ] Firewall Rules API ([reference](https://developers.cloudflare.com/firewall/api/cf-firewall-rules/))
